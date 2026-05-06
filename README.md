@@ -7,7 +7,7 @@
 2. Crear todo la historia con IA (mínimo 10 capitulos) y meter á un archivo de texto.
 3. Crear el prototipo de sitio web con Google Stitch con solo capitulo uno.
 4. Modificar los estilos de títulos y texto.
-5. Crear los imagenes de capitulos y un banner con IA y meterlos a un carpeta. 
+5. Crear los imagenes de capitulos y un banner con IA y meterlos a una carpeta. 
 6. Añadir un banner y una imagen para el primer capítulo con estilo y ubicación correctos.
 7. Añadir mas capitulos y imagenes á el sitio web.
 8. Actualizar el sitio web a GitHub Pages.
