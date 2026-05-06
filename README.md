@@ -12,7 +12,7 @@
 7. Añadir mas capitulos y imagenes á el sitio web.
 8. Actualizar el sitio web a GitHub Pages.
 9. Modificar el archivo [README.md] con screenshot de sitio web funcional.  
-10. Crear un Tag 1.0 para hacer versión 1 de proyecto.
+10. Crear un Tag "v1.0" para hacer versión 1.0 de proyecto.
 
 **Stack:**
 - HTML5
