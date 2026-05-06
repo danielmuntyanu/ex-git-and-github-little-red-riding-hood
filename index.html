@@ -28,17 +28,19 @@
                 Caperucita Roja
             </a>
             <nav class="hidden md:flex items-center gap-8">
-                <a class="font-headline-md text-sm lowercase tracking-tight text-red-600 border-b border-red-900 pb-1 hover:scale-95 transition-transform duration-300"
+                <a class="font-headline-md text-sm lowercase tracking-tight text-stone-500 hover:text-stone-200 transition-colors hover:scale-95 transition-transform duration-300"
                     href="#">inicio</a>
                 <a class="font-headline-md text-sm lowercase tracking-tight text-stone-500 hover:text-stone-200 transition-colors hover:scale-95 transition-transform duration-300"
-                    href="#chapters">capítulos</a>
-                <a class="font-headline-md text-sm lowercase tracking-tight text-stone-500 hover:text-stone-200 transition-colors hover:scale-95 transition-transform duration-300"
                     href="#about">sobre la historia</a>
+                <a class="font-headline-md text-sm lowercase tracking-tight text-stone-500 hover:text-stone-200 transition-colors hover:scale-95 transition-transform duration-300"
+                    href="#chapters">capítulos</a>
             </nav>
-            <button
-                class="bg-primary-container text-secondary-fixed px-6 py-2 border border-red-800/30 font-label-sm uppercase hover:scale-95 transition-all active:scale-90">
-                Leer ahora
-            </button>
+            <a href="#chapters">
+                <button
+                    class="bg-primary-container text-secondary-fixed px-6 py-2 border border-red-800/30 font-label-sm uppercase hover:scale-95 transition-all active:scale-90">
+                    Leer ahora
+                </button>
+            </a>
         </div>
     </header>
     <main>
@@ -57,55 +59,15 @@
                 <p class="font-headline-md text-secondary-fixed opacity-80 mb-12 tracking-wide italic">
                     Versión original del folclore francés • La verdadera historia
                 </p>
+                <!-- BUTTON -->
                 <a class="inline-block bg-primary-container text-on-background px-10 py-4 font-label-sm uppercase tracking-widest border border-red-400/20 shadow-2xl hover:bg-red-900 transition-colors scale-100 active:scale-95 duration-300"
                     href="#chapters">
                     Leer Capítulo 1
                 </a>
             </div>
-            <div class="absolute bottom-10 left-1/2 -translate-x-1/2 animate-bounce">
+            <div class="absolute bottom-10 left-48/100 -translate-x-48/100 animate-bounce">
                 <span
                     class="material-symbols-outlined text-secondary-fixed/30 text-4xl">keyboard_double_arrow_down</span>
-            </div>
-        </section>
-        <!-- Chapter Section -->
-        <section class="py-section-gap px-gutter max-w-container-max mx-auto relative" id="chapters">
-            <div class="text-center mb-16">
-                <span class="font-label-sm text-primary uppercase tracking-[0.3em]">Tomo I</span>
-                <h2 class="font-headline-xl text-on-surface mt-4">Capítulo 1: El encargo de la madre</h2>
-            </div>
-            <div class="grid grid-cols-1 md:grid-cols-12 gap-gutter">
-                <div
-                    class="md:col-span-8 md:col-start-3 bg-surface-container-low p-12 border border-outline-variant/30 shadow-2xl relative">
-                    <!-- Ornamental corner -->
-                    <div class="absolute top-0 left-0 p-4 opacity-20">
-                        <span class="material-symbols-outlined text-4xl">eco</span>
-                    </div>
-                    <article class="font-body-lg text-secondary space-y-8 leading-loose drop-cap">
-                        <p>
-                            Érase una vez una niña muy hermosa que vivía en un pueblo cerca del bosque. Su madre la
-                            quería mucho, y su abuela aún más. Un día, su abuela le regaló una pequeña caperuza de
-                            terciopelo rojo, que le sentaba tan bien que nunca quería ponerse otra cosa. Por eso, todo
-                            el mundo empezó a llamarla Caperucita Roja.
-                        </p>
-                        <p>
-                            El bosque que rodeaba su aldea no era un lugar para los inocentes. Era un laberinto de
-                            raíces retorcidas y susurros que se perdían entre la niebla. Un día, su madre, con el rostro
-                            pálido y las manos temblorosas, le entregó una cesta de mimbre cubierta con un paño de lino.
-                        </p>
-                        <p class="italic text-on-surface-variant">
-                            —Lleva esto a tu abuela, hija mía. Pero recuerda: no te desvíes del camino, no hables con
-                            extraños, y no escuches el llamado de los que habitan en las sombras.
-                        </p>
-                    </article>
-                    <div class="divider-vine"></div>
-                    <div class="flex flex-col items-center gap-6 mt-12">
-                        <button
-                            class="bg-stone-800 text-stone-500 cursor-not-allowed px-8 py-4 font-label-sm uppercase tracking-widest border border-stone-700/50 w-full md:w-auto"
-                            disabled="">
-                            Leer Capítulo 2 (Próximamente)
-                        </button>
-                    </div>
-                </div>
             </div>
         </section>
         <!-- About Section -->
@@ -141,6 +103,52 @@
                 </div>
             </div>
         </section>
+        <!-- Chapter Section -->
+        <section class="py-section-gap px-gutter max-w-container-max mx-auto relative" id="chapters">
+            <div class="text-center mb-16">
+                <span class="font-label-sm text-primary uppercase tracking-[0.3em]">
+                    Capítulo I:
+                </span>
+                <h2 class="font-headline-xl text-on-surface mt-4">
+                    El encargo de la madre
+                </h2>
+            </div>
+
+            <div class="grid grid-cols-2 md:grid-cols-12">
+                <div
+                    class="md:col-span-8 md:col-start-3 bg-surface-container-low p-12 border border-outline-variant/30 shadow-2xl relative">
+                    <!-- Ornamental corner -->
+                    <div class="absolute top-0 left-0 p-4 opacity-20">
+                        <span class="material-symbols-outlined text-4xl">eco</span>
+                    </div>
+                    <article class="font-body-lg text-secondary space-y-8 leading-loose drop-cap">
+                        <p>
+                            Érase una vez una niña muy hermosa que vivía en un pueblo cerca del bosque. Todos la
+                            querían, pero sobre todo su abuela, que le regaló una caperuza de terciopelo rojo. Por eso
+                            la llamaban Caperucita Roja.
+                        </p>
+                        <p>
+                            Un día, su madre le dijo:<br />
+                            —Caperucita, tu abuela está enferma. Llévale esta cesta con pan, mantequilla y un poco de
+                            vino. Ve directamente por el camino y no te entretengas ni hables con nadie.
+                        </p>
+                        <p>
+                            La niña cogió la cesta y se adentró en el bosque.
+                        </p>
+                    </article>
+                    <div class="divider-vine"></div>
+                    <div class="flex flex-col items-center gap-6 mt-12">
+                        <a href="#chapter2">
+                            <button
+                                class="bg-stone-800 hover:bg-primary-container transition-colors duration-300 text-secondary-fixed border border-red-800/30 px-8 py-4 font-label-sm uppercase tracking-widest w-full md:w-auto">
+                                Leer Capítulo 2
+                            </button>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
     </main>
     <!-- Footer -->
     <footer class="w-full py-16 border-t border-red-950/30 bg-[#1a1614] dark:bg-[#1a1614]">
@@ -155,10 +163,10 @@
             </div>
             <div class="max-w-md">
                 <p class="font-serif text-[12px] uppercase tracking-[0.1em] text-red-900 mb-2">
-                    Сказка содержит тёмные темы. Не рекомендуется для маленьких детей.
+                    Esta historia contiene temas oscuros. No recomendada para niños pequeños.
                 </p>
                 <p class="font-serif text-[10px] uppercase tracking-[0.2em] text-stone-600">
-                    © MMXXIV Crónicas del Bosque. Todos los derechos reservados.
+                    © MMXXVI Todos los derechos reservados.
                 </p>
             </div>
             <div class="flex gap-4 opacity-30">
@@ -169,4 +177,5 @@
         </div>
     </footer>
 </body>
+
 </html>
