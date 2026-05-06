@@ -9,7 +9,7 @@
 4. Modificar los estilos de títulos y texto.
 5. Crear los imagenes de capitulos y un banner con IA y meterlos a una carpeta. 
 6. Añadir un banner y una imagen para el primer capítulo con estilo y ubicación correctos.
-7. Añadir mas capitulos y imagenes á el sitio web.
+7. Añadir mas capitulos y imagenes al sitio web.
 8. Actualizar el sitio web a GitHub Pages.
 9. Modificar el archivo [README.md] con screenshot de sitio web funcional.  
 10. Crear un Tag "v1.0" para hacer versión 1.0 de proyecto.
