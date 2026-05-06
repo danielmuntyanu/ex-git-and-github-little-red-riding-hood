@@ -15,8 +15,11 @@
 10. Crear un Tag "v1.0" para hacer versión 1.0 de proyecto.
 
 **Stack:**
+- Google Stitch
+- GROK Imagine
 - HTML5
 - CSS3
+- TailwindCSS
 - GIT
 - GitHub Pages
 
