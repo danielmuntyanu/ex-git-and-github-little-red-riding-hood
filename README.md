@@ -11,7 +11,10 @@ con un final muy aterrador (no para niños).
 ### Enlace a sitio web:
 [GitHub Pages](https://danielmuntyanu.github.io/ex-git-and-github-little-red-riding-hood/)
 
+<br>
+
 ## Etapas:
+
 1. ✅ Escribir un plan en [README.md].
 2. ✅ Crear todo la historia con IA (mínimo 10 capitulos) y meter á un archivo de texto.
 3. ✅ Crear el prototipo de sitio web con Google Stitch con solo capitulo uno.
@@ -21,17 +24,21 @@ con un final muy aterrador (no para niños).
 7. ✅ Añadir mas capitulos y imagenes al sitio web.
 8. ✅ Actualizar el sitio web a GitHub Pages.
 9. ✅ Modificar el archivo [README.md] con screenshot de sitio web funcional.  
-10. Crear un Tag "v1.0" para hacer versión 1.0 de proyecto.
+10. ✅ Crear un Tag "v1.0" para hacer versión 1.0 de proyecto.
 
 ## Stack:
-- Google Stitch (Prototipo)
-- GROK LLM (Para escribir la historia)
-- GROK Imagine (Para crear los imagenes)
-- HTML5
-- CSS3
-- Tailwind CSS
-- GIT
-- GitHub Pages
+- 🔹 **Google Stitch** (Prototipo)
+- 🔹 **GROK LLM** (Para escribir la historia)
+- 🔹 **GROK Imagine** (Para crear los imagenes)
+- 🔹 **HTML5** 
+- 🔹 **CSS3** 
+- 🔹 **Tailwind CSS**
+- 🔹 **Git** 
+- 🔹 **GitHub Pages** 
+
+
+
+<br>
 
 ## Screenshots
 
@@ -41,20 +48,21 @@ con un final muy aterrador (no para niños).
 ### 2. About
 ![About Section](assets/images/screenshots/about.jpeg)
 
-### 3. Chapter 1
+### 3. Chapter 1 Start
 ![Chapter 1 Section](assets/images/screenshots/chapter.jpeg)
+
+### 4. Chapter 1 End
 ![Chapter 1 Section](assets/images/screenshots/chapter2.jpeg)
 
+<br>
+Gracias por comprobarlo! =)
 
 
 
 
-
-
-
-
-
-<br><br><br><br><br><br>
+<br><br><br><br>
+--- 
+<br><br>
 
 # Exercise - Git and GitHub - Little Red Riding Hood
 
