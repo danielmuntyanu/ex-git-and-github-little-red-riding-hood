@@ -1,18 +1,29 @@
-# Proyecto: Historia de "Caperucita Roja (Versión original francesa del folclore)"
+# README
 
-**Etapas:**
-1. Escribir un plan en [README.md].
-2. Crear todo la historia con IA (mínimo 10 capitulos) y meter á un archivo de texto.
-3. Crear el prototipo de sitio web con Google Stitch con solo capitulo uno.
-4. Modificar los estilos de sitio web.
-5. Crear los imagenes de capitulos y un banner con IA y meterlos a una carpeta. 
-6. Añadir un banner y una imagen para el primer capítulo con estilo y ubicación correctos.
-7. Añadir mas capitulos y imagenes al sitio web.
-8. Actualizar el sitio web a GitHub Pages.
-9. Modificar el archivo [README.md] con screenshot de sitio web funcional.  
+<!-- ## Proyecto: **Historia de "Caperucita Roja (Versión original francesa del folclore)"** -->
+## *Proyecto:* <br> **Historia de "Caperucita Roja" <br>**(Versión original francesa del folclore)
+
+### Descripción:
+Un proyecto de Factoria F5 Bootcamp para aprender cómo hacer commits, utilizar Git y más. <br>
+Yo elijé la historia de Caperucita Roja, pero otra versión original francesa del folclore <br>
+con un final muy aterrador (no para niños).  
+
+### Enlace a sitio web:
+[GitHub Pages](https://danielmuntyanu.github.io/ex-git-and-github-little-red-riding-hood/)
+
+## Etapas:
+1. ✅ Escribir un plan en [README.md].
+2. ✅ Crear todo la historia con IA (mínimo 10 capitulos) y meter á un archivo de texto.
+3. ✅ Crear el prototipo de sitio web con Google Stitch con solo capitulo uno.
+4. ✅ Modificar los estilos de sitio web.
+5. ✅ Crear los imagenes de capitulos y un banner con IA y meterlos a una carpeta. 
+6. ✅ Añadir un banner y una imagen para el primer capítulo con estilo y ubicación correctos.
+7. ✅ Añadir mas capitulos y imagenes al sitio web.
+8. ✅ Actualizar el sitio web a GitHub Pages.
+9. ✅ Modificar el archivo [README.md] con screenshot de sitio web funcional.  
 10. Crear un Tag "v1.0" para hacer versión 1.0 de proyecto.
 
-**Stack:**
+## Stack:
 - Google Stitch (Prototipo)
 - GROK LLM (Para escribir la historia)
 - GROK Imagine (Para crear los imagenes)
@@ -21,6 +32,26 @@
 - Tailwind CSS
 - GIT
 - GitHub Pages
+
+## Screenshots
+
+### 1. Navigation and Hero
+![Hero Section](assets/images/screenshots/hero.jpeg)
+
+### 2. About
+![About Section](assets/images/screenshots/about.jpeg)
+
+### 3. Chapter 1
+![Chapter 1 Section](assets/images/screenshots/chapter.jpeg)
+![Chapter 1 Section](assets/images/screenshots/chapter2.jpeg)
+
+
+
+
+
+
+
+
 
 
 <br><br><br><br><br><br>
