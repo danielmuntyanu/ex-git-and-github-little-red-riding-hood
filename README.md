@@ -11,6 +11,7 @@ con un final muy aterrador (no para niños).
 ### Enlace a sitio web:
 [GitHub Pages](https://danielmuntyanu.github.io/ex-git-and-github-little-red-riding-hood/)
 
+<br>
 ## Etapas:
 1. ✅ Escribir un plan en [README.md].
 2. ✅ Crear todo la historia con IA (mínimo 10 capitulos) y meter á un archivo de texto.
@@ -33,16 +34,20 @@ con un final muy aterrador (no para niños).
 - GIT
 - GitHub Pages
 
+<br>
+
 ## Screenshots
 
-### 1. Navigation and Hero
+### Navigation and Hero
 ![Hero Section](assets/images/screenshots/hero.jpeg)
 
-### 2. About
+### About
 ![About Section](assets/images/screenshots/about.jpeg)
 
-### 3. Chapter 1
+### Chapter 1 Start
 ![Chapter 1 Section](assets/images/screenshots/chapter.jpeg)
+
+### Chapter 1 End
 ![Chapter 1 Section](assets/images/screenshots/chapter2.jpeg)
 
 
@@ -50,11 +55,9 @@ con un final muy aterrador (no para niños).
 
 
 
-
-
-
-
-<br><br><br><br><br><br>
+<br><br><br><br>
+--- 
+<br><br>
 
 # Exercise - Git and GitHub - Little Red Riding Hood
 
